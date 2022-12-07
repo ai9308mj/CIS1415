@@ -17,6 +17,7 @@ Select items in the room to collect clues to figure out the numeric combination 
 
 
 ---Walkthrough---
+Note: Use lowercase when typical alphabetic responses. 
 
 1. Mushrooms in Jars
 >>>Open the jar to find one of the mushrooms is plastic with an enscription at the bottom of 1.012
