@@ -1,0 +1,14 @@
+Assets:
+Images by jcomp on www.Freepik.com
+
+References:
+https://inventwithpython.com/pygame/chapter2.html
+https://www.youtube.com/watch?v=GMBqjxcKogA
+https://www.youtube.com/watch?v=jO6qQDNa2UY
+https://www.image-map.net/
+https://pygame-menu.readthedocs.io/en/4.2.8/
+https://www.tutorialspoint.com/creating-a-popup-message-box-with-an-entry-field-in-tkinter
+https://www.tutorialspoint.com/save-file-dialog-box-in-tkinter
+
+Brainteasers:
+https://www.enchambered.com/brainteasers/the_code_is_nonsense/
